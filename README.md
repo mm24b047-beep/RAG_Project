@@ -151,4 +151,4 @@ streamlit run app.py
 
 ## Author
 
-**Sapavath Santoshs** | IIT Madras — Metallurgical & Materials Engineering (B.Tech, 2028)
+**Sapavath Santosh** | IIT Madras — Metallurgical & Materials Engineering (B.Tech, 2028)
