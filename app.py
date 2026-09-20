@@ -277,7 +277,7 @@ with st.sidebar:
 - ⚡ Groq — Llama 3.3 70B
 - 🦜 LangChain LCEL
 """)
-    st.markdown("Built by [Aashish](https://github.com/aashish01784/Technical-Document-RAG-Assistant) · IIT Madras")
+    st.markdown("Built by [Santhosh](https://github.com/mm24b047-beep/RAG_Project/) · IIT Madras")
 
 # ── Main area ─────────────────────────────────────────────────────────────────
 st.markdown("## 📄 RAG Document Assistant")
